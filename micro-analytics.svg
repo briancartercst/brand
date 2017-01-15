@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="318px" height="318px" viewBox="0 0 318 318" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>micro-analytics</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="318" height="318"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="318" height="318" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="micro-analytics">
+            <g id="Group-2">
+                <use id="Rectangle" stroke="#4A4A4A" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                <text id="micro" font-family="FiraSans-Medium, Fira Sans" font-size="36" font-weight="400" fill="#4A4A4A">
+                    <tspan x="35.5" y="244">micro</tspan>
+                </text>
+                <text id="analytics" font-family="FiraSans-Medium, Fira Sans" font-size="36" font-weight="400" fill="#4A4A4A">
+                    <tspan x="34" y="280">analytics</tspan>
+                </text>
+                <g id="Group" transform="translate(34.000000, 53.000000)" font-weight="normal">
+                    <text id="$" font-family="FiraCode-Regular, Fira Code" font-size="80" letter-spacing="0.399999946" fill="#4A4A4A">
+                        <tspan x="0" y="75">$</tspan>
+                    </text>
+                    <text id="📈" font-family="AppleColorEmoji, Apple Color Emoji" font-size="100" line-spacing="100" letter-spacing="0.49999997" fill="#000000">
+                        <tspan x="57" y="106">📈</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
